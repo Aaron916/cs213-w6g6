@@ -1,4 +1,18 @@
 /* section 1 (flex 1) */
+#flex_first {
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-content: center;
+    margin-top: 1rem;
+}
+
+ul.center_list {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
 
 /* section 2 (flex 2) */
 #flex_second_wrapper {
